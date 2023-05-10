@@ -26,17 +26,11 @@
   ## Database
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="80" height="40"/>
   
-
- ## Design
-   <img src="	https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" width="80" height="40"/>
    
  ## Education
   <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" width="80" height="40"/>
   
- ## Frameworks & Library
-  
-  <img src=" https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width="80" height="40"/>
-    <img src=" https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" width="80" height="40"/>
+
 
   ## Games
    
