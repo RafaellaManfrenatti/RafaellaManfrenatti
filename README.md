@@ -30,15 +30,6 @@
  ## Education
   <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" width="80" height="40"/>
   
-
-
-  ## Games
-   
-  <img src=" https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white" width="80" height="40"/>
-   
-  <img src=" https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" width="80" height="40"/>
-  
- 
  
   ## Languagens
   
@@ -50,6 +41,14 @@
    <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" width="80" height="40"/>
   
   
-  
+## Contatos:
+
+<div>
+
+<a href = "mailto:rafinhars1987@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rafaella-rodrigues-manfrenatti-484328ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+ <a href="https://www.linkedin.com/in/rafaella-rodrigues-manfrenatti-484328ba/" target="_blank"><img src=" https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+
+</div>  
   
  
