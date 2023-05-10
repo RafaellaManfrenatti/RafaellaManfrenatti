@@ -64,4 +64,4 @@
 - Enjoy it!! o/
  
  
- <img src="https://tenor.com/pt-BR/view/cat-typing-typing-on-computer-computer-work-laptop-gif-21481919" target="_blank">
+ <img src="https://tenor.com/pt-BR/view/cat-typing-typing-on-computer-computer-work-laptop-gif-21481919">
