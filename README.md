@@ -24,5 +24,5 @@
 - Enjoy it!! o/
 
 ## Technologies and tools
- <img src="https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge" width="40" height="40"/>
- <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" width="40" height="40"/>
+ <img src="https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge" width="60" height="40"/>
+ <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" width="60" height="40"/>
